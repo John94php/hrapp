@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Tue Sep 08 2020 23:33:14 GMT+0200 (czas środkowoeuropejski letni)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-8-8-2020-23-3-6.txt
+
+
+Deleted files:
+
+
+Renamed files:
